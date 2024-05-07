@@ -39,7 +39,7 @@ const Navbar = () => {
     <Box h={20} py={13} px={10} display={'flex'} alignItems={'center'} justifyContent={'space-between'} style={{backgroundColor : "#2b6cb0"}}>
       <Link to={"/"}>
       <div className="container1"> 
-      <img src= {logo} alt='logo' style={{ height : 90, width : 100}}/>
+      <img src= {logo} alt='logo' style={{ height : 70, width : 100}}/>
    <div className="text">
    <h2 style={{ color: "white", fontSize : 40}}>ADVISIONS</h2> 
       </div>
